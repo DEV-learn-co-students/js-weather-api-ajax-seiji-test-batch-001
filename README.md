@@ -1,0 +1,1 @@
+# js-weather-api-ajax-seiji-test-batch-001
